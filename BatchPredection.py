@@ -1,3 +1,5 @@
+from detoxify import Detoxify
+
 texts = [
     "You are amazing!",
     "You're a horrible person.",
